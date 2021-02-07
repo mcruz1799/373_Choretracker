@@ -34,34 +34,6 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/task.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        3,
-        2,
-        null,
-        null
-      ],
-      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
       "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/child.rb": [
         1,
         null,
@@ -79,6 +51,52 @@
         null,
         1,
         0,
+        null,
+        null,
+        null
+      ],
+      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/matthewcruz/Documents/373/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        1,
         null,
         null,
         null
@@ -335,6 +353,6 @@
         0
       ]
     },
-    "timestamp": 1612728756
+    "timestamp": 1612729577
   }
 }
